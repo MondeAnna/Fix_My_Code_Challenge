@@ -1,0 +1,10 @@
+# everything
+*
+
+# exception: files
+!.gitignore
+!*.md
+!*.py
+
+# exception: directories
+!0x00-challenge
