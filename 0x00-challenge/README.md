@@ -23,5 +23,6 @@ How to correct existing code
 #### Corrective Assignements
 
 * _[`FizzBuzz`](0-fizzbuzz.py)_
+* _[`Print Square`](1-print_square.js)_
 
 <br />

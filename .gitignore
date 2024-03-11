@@ -3,6 +3,7 @@
 
 # exception: files
 !.gitignore
+!*.js
 !*.md
 !*.py
 
