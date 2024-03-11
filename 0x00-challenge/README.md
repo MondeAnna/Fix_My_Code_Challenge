@@ -26,5 +26,6 @@ How to correct existing code
 * _[`Print Square`](1-print_square.js)_
 * _[`Sorting`](2-sort.rb)_
 * _[`Check Password Validity`](3-user.py)_
+* _[`Delete Node`](4-delete_dnodeint/lists.h)_
 
 <br />

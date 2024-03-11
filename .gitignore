@@ -3,6 +3,7 @@
 
 # exception: files
 !.gitignore
+!*.c
 !*.js
 !*.md
 !*.py
@@ -10,3 +11,4 @@
 
 # exception: directories
 !0x00-challenge
+!4-delete_dnodeint/
