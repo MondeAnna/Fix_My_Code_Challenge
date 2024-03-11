@@ -19,3 +19,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 How to correct existing code
 
 <br />
+
+#### Corrective Assignements
+
+* _[`FizzBuzz`](0-fizzbuzz.py)_
+
+<br />
